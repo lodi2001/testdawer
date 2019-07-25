@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFC107</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="white">#ffffff</color>
+    <color name="colorTitle">#FF5722</color>
+    <color name="colorNavDefault">#8b8a8a</color>
+    <color name="colorNavActive">#fafafa</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorCategoryBackground">#bb363932</color>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Article" android:title="مقالاتي" android:icon="@drawable/ic_article"/>
+
+        <item android:id="@+id/Cv" android:title="سيرتي الذاتية" android:icon="@drawable/ic_009_research"/>
+
+        <item android:id="@+id/Consultant"  android:title="استشارات" android:icon="@drawable/ic_005_consult"/>
+
+        <item android:id="@+id/Hotissue" android:title="مقالات ساخنة" android:icon="@drawable/ic_004_food_and_restaurant"/>
+        <item android:id="@+id/Search"   android:title="بحث" android:icon="@drawable/ic_loupe"/>
+        <item android:id="@+id/Contact" android:title="تواصل معي " android:icon="@drawable/ic_contact"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>
